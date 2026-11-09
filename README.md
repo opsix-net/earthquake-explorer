@@ -50,7 +50,6 @@ IDs are skipped and counted. Mean reported magnitude does not mean average energ
 - `data/earthquakes.csv`: unmodified source snapshot.
 - `data/provenance.json`: source and integrity metadata.
 - `.binder/requirements.txt`: standard-library application; Binder supplies Jupyter.
-- `specsheet.txt`: reusable publishing and replication workflow.
 
 The submission journal is retained locally, separate from this public source
 repository. Review its name, submission date, and course IDE requirements before
