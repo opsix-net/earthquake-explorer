@@ -1,4 +1,9 @@
-"""Explore a bundled USGS earthquake snapshot without a network connection."""
+"""Explore a bundled USGS earthquake snapshot without a network connection.
+
+Source: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.csv
+Snapshot retrieved: 2026-11-09T18:58:39.300992+00:00.
+In Binder: File > New > Terminal, then python earthquake_explorer.py.
+"""
 
 import csv
 import math
